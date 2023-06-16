@@ -1,7 +1,7 @@
 ### Hi there 👋
-[![deafzx's GitHub | Stats](https://stats.quine.sh/deafzx/github?theme=dark)](https://quine.sh)
-[![deafzx's GitHub | Languages Over Time](https://stats.quine.sh/deafzx/languages-over-time?theme=dark)](https://quine.sh)
-[![deafzx's GitHub | Topics Over Time](https://stats.quine.sh/deafzx/topics-over-time?theme=dark)](https://quine.sh)
+//[![deafzx's GitHub | Stats](https://stats.quine.sh/deafzx/github?theme=dark)](https://quine.sh)
+//[![deafzx's GitHub | Languages Over Time](https://stats.quine.sh/deafzx/languages-over-time?theme=dark)](https://quine.sh)
+//[![deafzx's GitHub | Topics Over Time](https://stats.quine.sh/deafzx/topics-over-time?theme=dark)](https://quine.sh)
 <!--
 **deafzx/deafzx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
