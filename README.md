@@ -3,7 +3,7 @@
 [![deafzx's GitHub | Languages Over Time](https://stats.quine.sh/deafzx/languages-over-time?theme=dark)](https://quine.sh)
 [![deafzx's GitHub | Topics Over Time](https://stats.quine.sh/deafzx/topics-over-time?theme=dark)](https://quine.sh)
 ![Profile views](https://komarev.com/ghpvc/?username=YOUR-USERNAME)
-
+[![deafzx's GitHub | Dependencies](https://stats.quine.sh/deafzx/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=deafzx)
 
 <!--
 **deafzx/deafzx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
